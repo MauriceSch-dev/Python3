@@ -4,7 +4,7 @@ str_mood = input("What is your mood today?")
 if str_mood == "happy":
     print("Nice that you are happy!")
 elif str_mood == "nervous":
-    print("Nervous, hm, try taking a deep breath!")
+    print("Nervous, hm, try taking a dehep breath!")
 elif str_mood == "sad":
     print("If youre sad, stop being sad and be awesome instead!")
 elif str_mood == "excited":
